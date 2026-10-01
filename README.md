@@ -14,28 +14,6 @@ Un jeu de **Morpion (Tic-Tac-Toe)** avec une **interface graphique (GUI)**, dév
 * **Framework :** [Qt Framework](https://www.qt.io/)
 * **Gestionnaire de build :** CMake / qmake
 
-##  Installation et Lancement
-
-### Prérequis
-* Un compilateur compatible C++ (GCC, Clang, MSVC)
-* **Qt Creator** ou l'environnement Qt installé sur votre machine
-* **CMake** (si utilisé pour le build)
-
-### Cloner le projet
-```bash
-git clone https://github.com/VOTRE_PSEUDO/tic-tac-toe-qt.git
-cd tic-tac-toe-qt
-```
-
-### Compilation (Ligne de commande avec CMake)
-```bash
-mkdir build && cd build
-cmake ..
-make
-./TicTacToeQt
-```
-*Note : Vous pouvez également ouvrir directement le fichier `CMakeLists.txt` ou `.pro` dans **Qt Creator** et cliquer sur le bouton de lancement (Flèche verte).*
-
 ##  Structure du Projet
 ```text
 ├── src/
