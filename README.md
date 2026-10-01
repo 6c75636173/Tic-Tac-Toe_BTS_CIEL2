@@ -1,20 +1,20 @@
-# ❌ Tic-Tac-Toe (Morpion) - Qt GUI
+#  Tic-Tac-Toe (Morpion) - Qt GUI
 
 Un jeu de **Morpion (Tic-Tac-Toe)** avec une **interface graphique (GUI)**, développé dans le cadre d'un projet de cours en utilisant le framework **Qt**.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 * **Interface Graphique Intuitive :** Conçue avec Qt pour une expérience fluide.
 * **Mode 2 Joueurs :** Affrontement classique au tour par tour (Joueur 1 vs Joueur 2).
 * **Gestion du Score :** Suivi en temps réel des victoires, défaites et matchs nuls.
 * **Détection Automatique :** Fin de partie instantanée en cas de victoire ou de match nul avec affichage du gagnant.
 * **Réinitialisation Rapide :** Un bouton pour vider la grille et recommencer une nouvelle partie en un clic.
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 * **Langage :** C++ (ou Python avec PySide/PyQt, à adapter selon votre projet)
 * **Framework :** [Qt Framework](https://www.qt.io/)
 * **Gestionnaire de build :** CMake / qmake
 
-## 💻 Installation et Lancement
+##  Installation et Lancement
 
 ### Prérequis
 * Un compilateur compatible C++ (GCC, Clang, MSVC)
@@ -36,7 +36,7 @@ make
 ```
 *Note : Vous pouvez également ouvrir directement le fichier `CMakeLists.txt` ou `.pro` dans **Qt Creator** et cliquer sur le bouton de lancement (Flèche verte).*
 
-## 📁 Structure du Projet
+##  Structure du Projet
 ```text
 ├── src/
 │   ├── main.cpp          # Point d'entrée de l'application
