@@ -27,7 +27,7 @@ Un jeu de **Morpion (Tic-Tac-Toe)** avec une **interface graphique (GUI)**, dév
 ```
 
 ## 📝 Auteurs
-* **Votre Nom** - *Développement principal* - 6C75636173
+*  *Développement principal* - 6C75636173
 
 ---
 *Projet réalisé dans le cadre du cours de programmation.*
