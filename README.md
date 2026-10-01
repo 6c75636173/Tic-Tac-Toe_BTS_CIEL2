@@ -4,8 +4,6 @@ Un jeu de **Morpion (Tic-Tac-Toe)** avec une **interface graphique (GUI)**, dév
 
 ##  Fonctionnalités
 * **Interface Graphique Intuitive :** Conçue avec Qt pour une expérience fluide.
-* **Mode 2 Joueurs :** Affrontement classique au tour par tour (Joueur 1 vs Joueur 2).
-* **Gestion du Score :** Suivi en temps réel des victoires, défaites et matchs nuls.
 * **Détection Automatique :** Fin de partie instantanée en cas de victoire ou de match nul avec affichage du gagnant.
 * **Réinitialisation Rapide :** Un bouton pour vider la grille et recommencer une nouvelle partie en un clic.
 
